@@ -1,6 +1,6 @@
 team: Leopards
 
-manager: Nora
+manager: repi
 
 coach : Nicholas
 
@@ -10,4 +10,8 @@ members:
 - David
 - Olivia
 - Evie
+<<<<<<< HEAD
 - sanghee
+=======
+- Dongho
+>>>>>>> a9b27852921b36a5c9bff1231afa41b4a1154f3a
